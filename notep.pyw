@@ -52,7 +52,7 @@ def paste():
     TextArea.event_generate(("<<Pass>>"))
     
 def about():
-   showinfo("Notepad","This Notepad is created by Nadem")
+   showinfo("Notepad","This Notepad is created by Nadeem")
 
 
 
